@@ -1,1 +1,1 @@
-0x00. - Hello
+0x07-pointers_arrays_strings
